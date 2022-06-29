@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/boram_threeJs/static/css/main.1a2724f7.chunk.css",
+    "main.js": "/boram_threeJs/static/js/main.94b61fb3.chunk.js",
+    "main.js.map": "/boram_threeJs/static/js/main.94b61fb3.chunk.js.map",
+    "runtime-main.js": "/boram_threeJs/static/js/runtime-main.8c87e796.js",
+    "runtime-main.js.map": "/boram_threeJs/static/js/runtime-main.8c87e796.js.map",
+    "static/js/2.5be1d857.chunk.js": "/boram_threeJs/static/js/2.5be1d857.chunk.js",
+    "static/js/2.5be1d857.chunk.js.map": "/boram_threeJs/static/js/2.5be1d857.chunk.js.map",
+    "index.html": "/boram_threeJs/index.html",
+    "static/css/main.1a2724f7.chunk.css.map": "/boram_threeJs/static/css/main.1a2724f7.chunk.css.map",
+    "static/js/2.5be1d857.chunk.js.LICENSE.txt": "/boram_threeJs/static/js/2.5be1d857.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c87e796.js",
+    "static/js/2.5be1d857.chunk.js",
+    "static/css/main.1a2724f7.chunk.css",
+    "static/js/main.94b61fb3.chunk.js"
+  ]
+}
